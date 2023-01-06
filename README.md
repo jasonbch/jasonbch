@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jasonbch
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software architecture
-- 💞️ I’m looking to collaborate with all of you
-- 📫 How to reach me ...
+- 👋 Hi, I’m Phong Bach
 
 <!---
 jasonbch/jasonbch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
